@@ -1,3 +1,5 @@
+Based on: https://blog.hichroma.com/graphql-react-tutorial-part-4-6-9ad394e3592c
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
