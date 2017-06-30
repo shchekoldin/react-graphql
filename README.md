@@ -1,4 +1,7 @@
-Based on: https://blog.hichroma.com/graphql-react-tutorial-part-4-6-9ad394e3592c
+Based on:
+https://blog.hichroma.com/graphql-react-tutorial-part-1-6-d0691af25858
+https://github.com/tmeasday/tasklist-demo
+https://github.com/tmeasday/create-graphql-server
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
